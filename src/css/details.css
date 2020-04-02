@@ -1,0 +1,28 @@
+.hand{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 70px;
+}
+.deta_ul{
+    list-style: none;
+    border-top:1px solid #ebeef5;
+}
+.deta_ul>li{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 120px;
+    border-bottom: 2px solid #dcdfe6;
+}
+.deta_imgs{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.deta_imgs>img{
+    margin-left: 15px;
+    width: 100px;
+    height: 100px;
+}

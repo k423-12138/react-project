@@ -1,0 +1,17 @@
+.sp_add_had{
+    height: 70px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 1px solid #ebeef5;
+    margin-bottom: 15px;
+}
+.el-form-item__content{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.sp_add_sel{
+    position: relative;
+    left: 10;
+}

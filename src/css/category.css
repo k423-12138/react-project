@@ -1,0 +1,13 @@
+.cat_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom:1px solid #ebeef5  ;
+}
+.cat_main{
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}

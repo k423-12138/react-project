@@ -1,0 +1,6 @@
+.all{
+    width: 400px;
+    display: flex;
+   flex-flow: column;
+   margin: auto;
+}

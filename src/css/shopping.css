@@ -1,0 +1,12 @@
+.sp_top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 15px;
+}
+.sp_top_r{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+    
+}

@@ -1,0 +1,44 @@
+body{
+    background: #f3f3f3;
+}
+
+.home_had{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    box-shadow: 0 3px 3px rgba(0,0,0,.05);
+}
+.had{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.home_side{
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+   background-color: #1F2D3D;
+   
+}
+.img_side{
+   margin: auto; 
+   width: 60px;
+   height: 60px;
+}
+   .main{
+    width: 1100px;
+   margin-left: 300px;
+   margin-top: 90px;
+   background-color: white;
+   box-shadow: 0 3px 3px rgba(0,0,0,.05);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.active{
+    color: #F7BA2A;
+}
